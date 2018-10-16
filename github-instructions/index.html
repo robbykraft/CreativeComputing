@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Upload to Github</title>
+<style>
+html{ font-family: sans-serif; }
+img{ max-width: 60vw; }
+body{ margin: 0 20vw 6rem 20vw; }
+h2{ margin-top:2em; }
+code{
+	display:inline-block;
+	background-color: #ddd;
+	padding:0.25em 0.5em;
+}
+</style>
+</head>
+<body>
+<h1>upload homework to Github</h1>
+<p>before you begin:</p>
+<ul>
+	<li>find your github folder</li>
+	<li>all your new files need to be in this folder</li>
+</ul>
+
+<h2>Step 1</h2>
+<p>in terminal type <code>cd&nbsp;</code> "cd space", drag folder, hit "return".</p>
+<img src="step1.gif">
+
+<h2>Step 2</h2>
+<p>add any new files (replace <em>"newpage.html"</em> with your file)</p>
+<pre><code>git add newpage.html</code></pre>
+<p>If your file is in one or more folders it looks like this:</p>
+<pre><code>git add homework/01/newpage.html</code></pre>
+<p>a quick way to add ALL files is:</p>
+<pre><code>git add homework/01/</code></pre>
+<p>this adds all the files inside of the folder "01" inside "homework"</p>
+
+<h2>Step 3</h2>
+<p>commit and push</p>
+<pre><code>git commit -am "a message to yourself, describe what changed/what is new"</code></pre>
+<p>all your work, changes, new files are now saved, but only on your computer.</p>
+<pre><code>git push</code></pre>
+<p>and if <code>git push</code> doesn't work try <code>git push origin master</code></p>
+<p>now they are on the internet. You're done!</p>
+
+</body>
+</html>
