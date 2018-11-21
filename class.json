@@ -25,16 +25,16 @@
 	"color": "#00BD9D"
 },
 {
-	"name":"Yuri"
+	"name":"Yuri",
 	"lat":37.5168625,
 	"lon":126.9784237,
 	"color": "#33ccff"
 },
 {
 	"name": "Tiffany",
-	"lat":22.2794461
-	"lon":114.1578139
-	"color": pink
+	"lat":22.2794461,
+	"lon":114.1578139,
+	"color": "pink",
 },
 {
 	"name": "Rosie",
@@ -52,7 +52,7 @@
 	"name" : "Avery",
 	"lat" :38.9368581,
 	"lon" :-77.218692,
-	"coloe" : #C5ED40
+	"color" : "#C5ED40",
 },
 {
 	"name": "Yaron", 
