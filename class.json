@@ -9,56 +9,56 @@
 		"name": "Aly",
 		"lat": 33.6929947,
 		"long": -111.903685,
-		"color": "ff0000",
+		"color": "ff0000"
 	},
 
-	{
-	"name":"Joyce",
-	"lat":31.2023953,
-	"lon":121.4573276,
-	"colour":"rgb(255,159,62)",
+		{
+		"name":"Joyce",
+		"lat":31.2023953,
+		"lon":121.4573276,
+		"colour":"rgb(255,159,62)"
+	},
+		{
+		"name": "Lauren",
+		"lat": 33.68117,
+		"lon": -118.0321132,
+		"color": "#00BD9D"
+	},
+		{
+		"name":"Yuri",
+		"lat":37.5168625,
+		"lon":126.9784237,
+		"color": "#33ccff"
+	},
+		{
+		"name": "Tiffany",
+		"lat":22.2794461,
+		"lon":114.1578139,
+		"color": "pink"
 	},
 	{
-	"name": "Lauren",
-	"lat": 33.68117,
-	"lon": -118.0321132,
-	"color": "#00BD9D"
-},
-{
-	"name":"Yuri",
-	"lat":37.5168625,
-	"lon":126.9784237,
-	"color": "#33ccff"
-},
-{
-	"name": "Tiffany",
-	"lat":22.2794461,
-	"lon":114.1578139,
-	"color": "pink",
-},
-{
-	"name": "Rosie",
-	"lat": 23.1258709,
-	"lon": 112.6673089,
-	"color": "ADD8E6",
-},
-{
-	"name": "Ruofei",
-	"lat": -36.8690329,
-	"lon": 174.7654824,
-	"color": "#91dcff",
-},
-{
-	"name" : "Avery",
-	"lat" :38.9368581,
-	"lon" :-77.218692,
-	"color" : "#C5ED40",
-},
-{
-	"name": "Yaron", 
-	"lat": 42.2812147,
-	"lon": -71.2372319, 
-	"color": "#1ab4ed",
-},
+		"name": "Rosie",
+		"lat": 23.1258709,
+		"lon": 112.6673089,
+		"color": "ADD8E6"
+	},
+		{
+		"name": "Ruofei",
+		"lat": -36.8690329,
+		"lon": 174.7654824,
+		"color": "#91dcff"
+	},
+	{
+		"name" : "Avery",
+		"lat" :38.9368581,
+		"lon" :-77.218692,
+		"color" : "#C5ED40"
+	},
+	{
+		"name": "Yaron", 
+		"lat": 42.2812147,
+		"lon": -71.2372319, 
+		"color": "#1ab4ed"
+	},
 ]
 
