@@ -61,10 +61,18 @@
 		"color": "#1ab4ed"
 	},
 	{
+
+		"name": "Youran", 
+		"lat": 40.034919,
+		"lon": 116.4080293, 
+		"color": "#913b3b"
+	},
+
 		"name": "Julie", 
 		"lat": 37.5172,
 		"lon": 127.0549041, 
 		"color": "#42f4bc"
 	}
+
 ]
 
