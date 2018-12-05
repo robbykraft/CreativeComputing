@@ -61,6 +61,12 @@
 		"color": "#1ab4ed"
 	},
 	{
+ 		"name" : "Lena",
+		"lat" :22.5812053,
+		"lon" :114.0872458,
+		"color" : "#FFCAB5"
+    },
+	{
 
 		"name": "Youran", 
 		"lat": 40.034919,
